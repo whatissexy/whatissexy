@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whatissexy
-- 👀 I’m interested in networking
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning pyneng
 - 💞️ I’m looking to collaborate on IT-project management
 - 📫 How to reach me astemirulya@mail.ru
